@@ -46,7 +46,7 @@ openpyxl==3.0.6
 #packaging @ file:///tmp/build/80754af9/packaging_1607971725249/work
 pandas==1.2.1
 #pandocfilters @ file:///C:/ci/pandocfilters_1605102427207/work
-parso==0.8.1
+parso<0.8.0, >=0.70
 #pickleshare @ file:///tmp/build/80754af9/pickleshare_1606932040724/work
 #Pillow==8.1.0
 #prometheus-client @ file:///tmp/build/80754af9/prometheus_client_1606344362066/work
@@ -68,7 +68,7 @@ requests==2.25.1
 #Send2Trash @ file:///tmp/build/80754af9/send2trash_1607525499227/work
 #six @ file:///C:/ci/six_1605205426665/work
 soupsieve==2.1
-terminado==0.9.2
+#terminado==0.9.2
 testpath==0.4.4
 #tornado @ file:///C:/ci/tornado_1606935947090/work
 #traitlets @ file:///tmp/build/80754af9/traitlets_1602787416690/work
