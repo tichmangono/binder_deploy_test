@@ -59,7 +59,7 @@ python-dateutil==2.8.1
 pytrends==4.7.2
 pytz==2020.5
 #pywin32==300
-pypiwin32==223
+#pypiwin32==223
 pywinpty==0.5.7
 pyzmq==21.0.1
 #qtconsole @ file:///tmp/build/80754af9/qtconsole_1600870028330/work
